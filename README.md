@@ -50,6 +50,7 @@ Now that your environment is ready, you can use the project's setup script.
 
 1.  **Make the script executable (Linux/Mac only):**
     ```bash
+    cd gmaps-scraper
     chmod +x setup.sh
     ```
 
@@ -121,7 +122,7 @@ If you want to share the tool publicly or access it from another device, enable 
 
 ## 📁 Project Structure
 ```text
-maps-scraper-pro
+gmaps-scraper
 ├── frontend/ # React Vite App
 │ ├── src/ # UI Components 
 │ └── dist/ # Built static assets (after build) 
