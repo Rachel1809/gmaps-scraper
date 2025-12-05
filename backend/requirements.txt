@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+websockets
+selenium
+webdriver-manager
+pandas
+openpyxl
+pyngrok
+python-multipart
